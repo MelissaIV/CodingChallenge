@@ -6,7 +6,7 @@ AWS Components
 - IAM Role
 - S3 Bucket
 	- This contains the two lookup files (BillingTerms, OrderPrimaryTeam) and the main Operative Finance file
-- Redshift Cluster (dc1.large, single node)
+- Redshift Cluster (large, single node)
 
 Additional Components
 - SQL Workbench/J 
