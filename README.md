@@ -11,7 +11,6 @@ AWS Components
 Additional Components
 - SQL Workbench/J 
 
-
 I created one sql script that will perform the following
 - Create tables for BillingTerms, OrderyPrimaryTeam, OperativeFinance
 - Copy the data from the files in the S3 bucket to the Redshift database
